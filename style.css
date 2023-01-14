@@ -10,7 +10,7 @@ body{
     background-color:  hsl(204, 43%, 93%);
 }
 .main-grid{
-    margin: 7em auto;
+    margin: 5em auto;
     width: 70%;
     max-width: 750px;
     overflow: hidden;
